@@ -1,4 +1,6 @@
-reverse_each_word("Hello there, and how are you?")
+string = "Hello there, and how are you?"
+
+reverse_each_word(string)
 words = reverse_each_word.split(" ")
 reversed = []
 words.each do |word|
