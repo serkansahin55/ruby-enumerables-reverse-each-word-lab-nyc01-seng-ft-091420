@@ -1,4 +1,4 @@
-string = "Hello there, and how are you?"
+# string = "Hello there, and how are you?"
 
 reverse_each_word(string)
 words = string.split(" ")
